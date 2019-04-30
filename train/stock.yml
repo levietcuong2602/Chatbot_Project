@@ -1,0 +1,38 @@
+categories:
+- stock
+conversations:
+- - Mệnh giá
+  - Mệnh giá là số tiền ghi trên tờ cổ phiếu hay tờ trái phiếu khi phát hành. Hiện nay, theo quy định cổ phiếu có mệnh giá là 10.000 đồng, trái phiếu có mệnh giá tối thiểu là 100.000 đồng.
+- - Thị giá
+  - Thị giá là giá thị trường của các loại chứng khoán được mua
+- - Giá niêm yết
+  - Giá niêm yết là mức giá của cổ phiếu được thực hiện trong phiên giao dịch đầu tiên khi lên niêm yết trên thị trường chứng khoán và được hình thành dựa trên quan hệ cung – cầu trên thị trường. – VD Cổ phiếu REE khi lên niêm yết trên thị trường giao dịch tập trung, giá niêm yết được xác định là 16.000 đồng/ cổ phiếu
+- - Giá khớp lệnh
+  -  Giá khớp lệnh là mức giá được xác định từ kết quả khớp lệnh của Trung tâm giao dịch chứng khoán, thoả mãn được tối đa nhu cầu của người mua và người bán chứng khoán
+- - Giá đóng cửa
+  - Giá đóng cửa là giá thực hiện tại lần khớp lệnh cuối cùng trong ngày giao dịch. – VD Giá đóng cửa của cổ phiếu REE trong phiên giao dịch ngày 10/01/2003 chính là mức giá khớp lệnh của cổ phiếu đó là 18.700 đồng / cổ phiếu
+- - Giá mở cửa
+  - Giá mở cửa là giá đóng cửa của phiên giao dịch hôm trước. – VD Giá mở cửa của cổ phiếu REE vào phiên giao dich ngày 11/01/2003 là 18.700 đồng/cổ phiếu
+- - Giá tham chiếu
+  - Giá tham chiếu là mức giá làm cơ sở cho việc tính giới hạn dao động giá chứng khoán trong phiên giao dịch
+- - Biên độ giao động giá
+  - Biên độ giao động giá là giới hạn giá chứng khoán có thể biến đổi tối đa trong phiên giao dịch so với giá tham chiếu
+- - Giá trần
+  - Giá sàn là mức giá thấp nhất mà một loại chứng khoán có thể được thực hiện trong phiên giao dịch. Giá sàn = Giá tham chiếu – (Giá tham chiếu x Biên độ dao động giá) – VD Giá sàn của cổ phiếu REE trong phiên giao dịch ngày 11/01/2003 Giá sàn = 18.700
+- - Đơn vị giao dịch
+  - Đơn vị giao dịch là số lượng chứng khoán nhỏ nhất có thể được khớp lệnh tại hệ thống
+- - Chứng khoán
+  - Chứng khoán là bằng chứng xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với tài sản hoặc phần vốn của tổ chức phát hành. Chứng khoán được thể hiện bằng hình thức chứng chỉ, bút toán ghi sổ hoặc dữ liệu điện thoại . Chứng khoán bao gồm các loại cổ phiếu, trái phiếu, chứng chỉ quỹ đầu tư, chứng khoán phái sinh
+- - Các loại chứng khoán
+  - Các loại chứng khoán chứng khoán cổ phần (ví dụ cổ phiếu phổ thông của một công ty), chứng khoán nợ (như trái phiếu nhà nước, trái phiếu công ty…) và các chứng khoán phái sinh (như các quyền chọn, hợp đồng quy đổi – Swap, hợp đồng tương lai, Hợp đồng kỳ hạn)
+- - Chứng khoán cổ phần
+  - Chứng khoán cổ phần là những giấy tờ, bút toán ghi sổ hoặc dữ liệu điện tử trên điện thoại di động , lưu hành trên thị trường và chứng nhận quyền sở hữu một phần tài sản của đối tượng nắm giữ giấy tờ
+- - Chứng khoán nợ
+  - Chứng khoán nợ là những giấy tờ, chứng chỉ điện tử hoặc bút toán ghi sổ có, lưu hành trên thị trường, chứng nhận mối quan hệ chủ nợ của người nắm giữ giấy tờ, chứng chỉ đó đối với người phát hành
+- - Trái phiếu
+  - Trái phiếu là dạng nợ do nhà nước (trung ương lẫn địa phương), công ty, thể chế tài chính phát hành mà trên tờ phiếu có xác nhận việc người phát hành nợ người nắm giữ trái phiếu và nghĩa vụ trả nợ cả gốc lẫn lãi vào một thời điểm sau khi phát hành và kỳ hạn tới thời điểm đó. Và trái phiếu có 2 loại là trái phiếu chính phủ và trái phiếu tư nhân (có thể của tổ chức, công ty…)
+- - Thị trường sơ cấp
+  - Là thị trường mua bán các chứng khoán mới phát hành. Trên thị trường này, vốn từ nhà đầu tư sẽ được chuyển sang nhà phát hành thông qua việc nhà đầu tư mua các chứng khoán mới phát hành
+- - Thị trường thứ cấp
+  - Là nơi giao dịch các chứng khoán đã được phát hành trên thị trường sơ cấp.Thị trường thứ cấp đảm bảo tính thanh khoản cho các chứng khoán đã phát hành
+

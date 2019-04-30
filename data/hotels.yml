@@ -1,0 +1,219 @@
+categories:
+- hotels
+conversations:
+- - Khách sạn nào ở gần tôi nhất?
+  - Xin vui lòng cho chúng tôi biết địa chỉ của bạn để chúng tôi có thể hỗ trợ bạn
+- - Ở gần tôi có khách sạn nào không?	
+  - Xin vui lòng cho chúng tôi biết địa chỉ của bạn để chúng tôi có thể hỗ trợ bạn
+- - Khách sạn nào ở gần tôi nhất?	
+  - Xin vui lòng cho chúng tôi biết địa chỉ của bạn để chúng tôi có thể hỗ trợ bạn
+- - Ở gần t có khách sạn nào không?	
+  - Xin vui lòng cho chúng tôi biết địa chỉ của bạn để chúng tôi có thể hỗ trợ bạn
+- - Tôi ở khu vực Hà Nội có phòng nào trống không?	
+  - Dạ, Hiện tại ở khu vực Hà Nội đang có … phòng trống! Đó là …
+- - Tôi ở khu vực Đà Nẵng có phòng nào trống không?	
+  - Dạ, Hiện tại ở khu vực Đà Nẵng đang có … phòng trống! Đó là …
+- - Tôi ở khu vực Huế có phòng nào trống không?	
+  - Dạ, Hiện tại ở khu vực Huế đang có … phòng trống! Đó là …
+- - Tôi ở khu vực Nha Trang có phòng nào trống không?	
+  - Dạ, Hiện tại ở khu vực Nha Trang đang có … phòng trống! Đó là …
+- - Tôi ở khu vực TP Hồ Chí Minh có phòng nào trống không?	
+  - Dạ, Hiện tại ở khu vực TP Hồ Chí Minh đang có …phòng trống! Đó là …
+- - Ở Hà Nội có phòng nào trống không?	
+  - Dạ, Hiện tại ở khu vực Hà Nội đang có … phòng trống! Đó là …
+- - Ở Đà Nẵng có phòng nào trống không?	
+  - Dạ, Hiện tại ở khu vực Đà Nẵng đang có … phòng trống! Đó là …
+- - Ở Huế có phòng nào trống không?	
+  - Dạ, Hiện tại ở khu vực Huế đang có … phòng trống! Đó là …
+- - Ở Nha Trang có phòng nào trống không?	
+  - Dạ, Hiện tại ở khu vực Nha Trang đang có … phòng trống! Đó là …
+- - Ở TP Hồ Chí Minh có phòng nào trống không?	
+  - Dạ, Hiện tại ở khu vực TP Hồ Chí Minh đang có …phòng trống! Đó là …
+- - Giá phòng tại khách sạn áp dụng theo phòng hay theo số lượng người?	
+  - Các mức giá được áp dụng cho hai người/phòng và người thứ ba sẽ được tính phí thêm 200.000 VND với giường phụ.
+- - Tôi có thể đặt phòng bằng cách nào ?	
+  - "Có 2 cách đơn giản để Quý Khách có thể đặt phòng tại Khách sạn: Cách 1: Gọi điện đến số hotline tương ứng với từng khách sạn ở trên web. Cách 2: Bạn có thể đặt phòng trực tiếp trên web và vui lòng để lại thông tin chính xác để chúng tôi có thể phục vụ bạn."
+- - Trong trường hợp cần phòng gấp, tôi phải làm gì ?	
+  - Trong trường hợp Quý Khách cần phòng gấp, quý khách gọi điện trực tiếp đến số hotline của khách sạn đó.
+- - Làm thế nào để đặt phòng cho người khác tại khách sạn?	
+  - Quý khách chỉ cần cung cấp tên của khách nhận phòng khách sạn và số điện thoại, địa chỉ email của khách để Khách sạn liên hệ, Khách sạn sẽ gửi xác nhận qua email, số điện thoại mà Quý khách cung cấp.
+- - Đặt phòng đặt trực tiếp khách sạn và thông qua các trang đặt phòng thì khác nhau thế nào?	
+  - Khi đặt phòng trực tiếp tại khách sạn Quý khách được hưởng mức giá thấp hơn khi đặt trực tuyến các trang mạng từ 15% đến 25%. Ngoài ra Khách sạn đảm bảo chắc chắn giữ phòng cho Quý Khách khi Quý Khách đặt phòng có đảm bảo. Hơn thế nữa, Quý Khách sẽ nhận được mọi ưu đãi mà khách sạn đang áp dụng. Quý Khách được quyền lựa chọn yêu cầu mà ít khi bị tính thêm phí. Và điều quan trọng là Quý Khách có thể phản ánh trực tiếp với khách sạn để được giải đáp các thông tin Quý Khách cần. Bên cạnh đó, khi đã trở thành khách hàng thân thiết của KS, Quý Khách sẽ nhận được nhiều ưu đãi, giảm giá khi đặt phòng cho các lần sau.
+- - Khi đặt phòng tôi có cần ký quỹ/ đặt cọc hay không ?	
+  - Tất cả các xác nhận đặt phòng đảm bảo đều cần được đảm bảo (ký quỹ) bằng thẻ tín dụng hoặc (đặt cọc) bằng tiền mặt.
+- - Làm cách nào tôi có thể hủy phòng mà không bị tính phí ?	
+  - Tuỳ thuộc vào các điều kiện khi đặt phòng, quý khách nên vui lòng liên hệ với bộ phận đặt phòng của chúng tôi để biết thêm thông tin chi tiết.
+- - Một phòng có thể ở được bao nhiêu người?	
+  - Mỗi phòng ở được tối đa ba (3) người. Xin lưu ý rằng người thứ ba sẽ bị tính phụ phí .
+- - Khách sạn có áp dụng các mức giảm giá cho khách đoàn hay không?	
+  - Mỗi khách sạn sẽ có chính sách giảm giá cho khách đoàn và khách ở dài hạn riêng. Nếu bạn muốn biết thêm xin liên hệ với số hotline riêng của từng khách sạn. 
+- - Khách sạn có cho phép mang thú nuôi vào phòng hay không?	
+  - Rất tiếc là tất các loại động vật không được phép mang vào trong khuôn viên của khách sạn.
+- - Giá phòng đã bao gồm chi phí cho bữa sáng hay chưa ?	
+  - Giá phòng tại khách sạn đã bao gồm chi phí cho bữa ăn sáng.
+- - Quy định về thời gian nhận phòng và trả phòng của Khách sạn thế nào?	
+  - Theo quy định về thời gian nhận phòng là 14:00 giờ hàng ngày, và thời gian trả phòng là 12:00 giờ hàng ngày.
+- - Khách sạn có cho nhận phòng sớm hay không?	
+  - Nếu có phòng trống, khách sạn vẫn chấp nhận cho khách nhận phòng sớm. Để chắc chắn quý khách sẽ có phòng khi đến, vui lòng liên lạc trước với bộ phận đặt phòng ít nhất 24 tiếng trước khi đến (Chỉ dành cho những khách đặt phòng trực tiếp với khách sạn).
+- - Khách sạn có cho trả phòng trễ hay không ?	
+  - "Tùy vào tình trạng phòng còn trống mà khách sẽ được trả phòng trễ hay không. Nếu trả phòng trễ trong khoảng từ 14:00 giờ - 15:00 giờ khách hàng sẽ bị tính thêm phụ phí bằng 30% giá phòng. Nếu trả phòng trễ tới 18:00 Quý khách sẽ bị tính thêm phụ phí bằng 50% giá phòng . Bất kỳ khách nào trả phòng sau 18:00 giờ sẽ phải trả thêm một khoản phí bằng đủ giá phòng của một ngày lưu trú. Giá áp dụng cho việc trả phòng trễ là giá niêm yết của khách sạn."
+- - Khách sạn có loại phòng 3 giường và 4 giường hay không?	
+  - Khách sạn chỉ có phòng 01 giường đôi và phòng hai giường đơn. Nếu cần ba giường chúng tôi sẽ kê thêm giường phụ và có tính phí. Khách sạn không có phòng bốn giường.
+- - Khách sạn có phòng được trang bị bồn tắm không ?	
+  - Vâng, chúng tôi có loại phòng được trang bị bồn tắm sauna.
+- - Khách sạn có phòng không hút thuốc không ?	
+  - Phòng không hút thuốc luôn luôn có sẵn theo yêu cầu của Quý khách.
+- - Khách sạn có két an toàn trong phòng hay không ?	
+  - Tất cả các phòng khách sạn đều được trang bị két sắt an toàn và được sử dụng hoàn toàn miễn phí.
+- - Khách sạn có sẵn mạng Internet hay không ?	
+  - Toàn bộ khách sạn được thiết lập hệ thống internet không dây được sử dụng hoàn toàn miễn phí. Quý khách có thể liên hệ với quầy lễ tân để biết tên đăng nhập và mật khẩu. Mạng không dây cũng đều có sẵn ở mỗi phòng khách.
+- - Thông tin cá nhân của tôi có được giữ kín không?	
+  - Tất nhiên. Chúng tôi không tiết lộ bất kỳ thông tin của Quý Khách. Để biết thêm chi tiết, vui lòng tham khảo chính sách riêng tư của chúng tôi.
+- - Khách sạn có dịch vụ trông trẻ hay không ?	
+  - Không , hiện tại khách sạn chưa có dịch vụ trông trẻ.
+- - Khách sạn có khu vui chơi cho trẻ em hay không?	
+  - Khách sạn hiện chưa có khu vui chơi cho trẻ em.
+- - Trong phòng có sẵn nôi cho bé sơ sinh hay không?	
+  - Nôi cho bé sơ sinh sẽ được cung cấp nếu khách yêu cầu.
+- - Tại nhà hàng có ghế cao cho trẻ em ngồi hay không?	
+  - Vâng, chúng tôi có.
+- - Trong chính sách của Khách sạn, độ tuổi nào được tính là trẻ em?	
+  - "Trẻ em dưới 6 tuổi ngủ chung giường với bố mẹ : miễn phí tiền phòng và ăn sáng. Trẻ em dưới 12 tuổi ngủ chung giường với bố mẹ : miễn phí tiền phòng, phụ thu phiếu ăn sáng cho trẻ. (nếu sử dụng giường phụ sẽ tính phí)"
+- - Bữa sáng được phục vụ ở đâu ?	
+  - Bữa ăn sáng tự chọn sẽ được phục vụ tại nhà ăn của mỗi khách sạn, phục vụ từ 6:30 giờ - 09:30 sáng hàng ngày.
+- - Các món ăn chay có được phục vụ tại nhà hàng hay không?	
+  - Tại khách sạn luôn có đủ món cho Quý Khách, tùy vào yêu cầu của Quý Khách.
+- - Nhà hàng có thực đơn đặc biệt dành cho trẻ em hay không?	
+  - Vâng, các khách sạn đều có.
+- - Khách sạn có dịch vụ phục vụ ăn tại phòng suốt 24 giờ hay không?	
+  - Vâng Có! Khách sạn luôn sẵn sàng phục vụ Khách hàng tại Phòng trước 21h
+- - Các loại phòng nào đang có sẵn tại Khách sạn?
+  - Loại phòng Luxury Suite diện tích 55m2 tại tầng 5,6,7,8 có Bồn tắm sauna và 01 Giường đôi 1,8m. Loại phòng VIP Room diện tích 45m2 tại tầng 5,6,7,8 có Bồn tắm sauna và 01 Giường đôi 1,8. Loại phòng Executive room diện tích 35m2 tại tầng 5,6,7,8 có Phòng tắm đứng và 01 Giường đôi 1,8m. Loại phòng Deluxe Twin diện tích 38m2  tại tầng 5,6,7,8 có Phòng tắm đứng và 02 Giường đơn 1,2m
+- - Giá phòng tại khách sạn áp dụng theo phòng hay theo số lượng người?
+  - Các mức giá được áp dụng cho hai người/phòng và người thứ ba sẽ được tính phí thêm 200.000 VND với giường phụ.
+- - Khách sạn được xây dựng/ thay đổi thương hiệu từ khi nào? 
+  - Thương hiệu Palm Hotel được xây dựng từ ngày 12 tháng 9 năm 2016.
+- - Công ty nào đang là công ty chủ quản của khách sạn?
+  - Công ty TNHH Huy Hoàng.
+- - Công ty nào đang quản lý / điều hành Khách sạn?
+  - Công ty TNHH Huy Hoàng.
+- - Khách sạn có hồ bơi hay không?
+  - Khách sạn chúng tôi không có hồ bơi.
+- - Khách sạn có phòng tập thể hình không?
+  - Phòng tập thể dục nằm tại khu vực lầu 11 của khách sạn. Mở cửa từ 6:00 giờ - 21:00 giờ mỗi ngày dành cho khách lưu trú tại khách sạn. sử dụng miễn phí.
+- - Có bao nhiêu chỗ đậu xe tại khách sạn?
+  - Bãi đậu xe của khách sạn có sức chứa đủ cho 20 xe hơi với 2 khu vực đậu xe phía trước và phía sau sau khách sạn.
+- - Thời gian di chuyển bằng taxi hoặc xe đưa rước từ sân bay đến Khách sạn là bao lâu ? và chi phi khoảng bao nhiêu tiền cho một lượt di chuyển?
+  - Từ sân bay đến khách sạn khoảng 30 phút lái xe nhưng còn tùy thuộc vào thời gian di chuyển và mật độ lưu thông tại thời điểm di chuyển. Chi phí cho một lượt di chuyển bằng taxi đến sân bay khoảng 400.000 VND. Nếu sử dụng xe đưa rước của sân bay chi phí khoảng 100.000vnd.
+- - Đi đến Khách sạn bằng các phương tiên công cộng như thế nào?
+  - Quý khách có thể sử dụng dịch vụ taxi của các hãng taxi được người dùng tin tưởng tại Việt Nam như “taxi 36” hoặc “Mai Linh taxi”.
+- - Khách sạn có các phương tiện đặc biệt hỗ trợ cho hành khách khuyết tật hay không?
+  - Vâng, chúng tôi có trang bị xe lăn cho những khách khuyết tật và không tính phí.
+- - Khách sạn có sẵn bác sĩ hay không?
+  - Chúng tôi có thực hiện dịch vụ bác sĩ chăm sóc suốt 24 giờ thông qua một trung tâm y tế.
+- - Khách sạn có dịch vụ Massage không?
+  - "Vâng, chúng tôi có dịch vụ massage tại khách sạn: Massage toàn thân và massage chân."
+- - Bệnh viện gần nhất Khách sạn cách bao xa?
+  - Chỉ mất khoảng 10 phút lái xe từ khách sạn để đến bệnh viện công hoặc tư nhân phục vụ theo yêu cầu.
+- - Ngân hàng hoặc địa điểm đổi tiền gần nhất nằm ở đâu?
+  - Khách sạn của chúng tôi tọa lạc ngay trung tâm Tp Thanh hóa, ngay cạnh Khách sạn là các hệ thống Ngân hàng. Quý khách chỉ mất khoảng 5 phút đi bộ. Các ngân hàng tại Việt Nam thường mở cửa từ 08.00 sáng đến 16:30 chiều, làm việc từ thứ Hai đến thứ Sáu.
+- - Khách có thể gửi hành lý tại Khách sạn khi tôi đi du lịch đến một nơi khác ở Việt Nam không?
+  - Hoàn toàn có thể, Quý khách vui lòng liên hệ với quầy Lễ tân, nhân viên tại quầy sẽ rất vui lòng tiếp nhận những hành lý đó.
+- - Nguồn điện áp Khách sạn đang sử dụng tại là bao nhiêu?
+  - Nguồn điện áp tại Việt Nam là 220 V.
+- - Thời tiết Thanh Hóa tại các thời điểm khác nhau trong năm như thế nào?
+  - Thanh Hoá có khí hậu nhiệt đới gió mùa ẩm, trong một năm Thanh Hóa chịu ảnh hưởng của hai mùa nóng và lạnh rõ rệt.  Mùa nóng Bắt đầu từ cuối Xuân đến giữa mùa thu. Ở khoảng thời gian này trong năm, thời tiết rất nắng, mưa nhiều, gây ra lụt lội và hạn hán. Những ngày có gió Lào, nhiệt độ còn được đẩy cao tới 39-40 độ C. Mùa lạnh Bắt đầu từ giữa mùa thu đến hết mùa xuân năm sau. Mùa này thường hay xuất hiện gió mùa Đông Bắc, lại mưa ít; đầu mùa thường hanh khô. Mùa lạnh nhiệt độ có thể xuống thấp tới 5 - 6 độ C. Nhiệt độ không khí trung bình năm là 22 - 230C, song phân hóa rất khác nhau theo từng tháng và giữa các vùng.
+- - Tôi nên mặc quần áo như thế nào khi ở Việt Nam?
+  - Trang phục phù hợp ở Việt Nam là các loại trang phục thông dụng, tiện lợi, thoải mái.
+- - Tôi có thể kết nối mạng với máy tính xách tay trong phòng hay không?
+  - Vâng, các máy tính xách tay hoàn toàn có thể kết nối được với mạng internet của Khách sạn. Toàn bộ mọi nơi tại khách sạn đều được phủ mạng không dây và sử dụng hoàn toàn miễn phí.
+- - Có trung tâm thương mại nào ở gần Khách sạn không?
+  - Khách sạn chúng tôi nằm ngay trung tâm thành phố. Ngay phía trước là siêu thị Corp mark , và các cửa hàng mua sắm tiện ích, khu trung tâm Vincom Shopping Mall cách Khách sạn chỉ 10 phút lái xe.
+- - Quyền lợi riêng của khu vực sảnh là gì?
+  - Khách lưu trú tại các phòng trên tầng thượng hạng và phòng Suites được sử dụng một khu vực riêng với ăn sáng, trà, cà phê và nước trái cây phục vụ miễn phí suốt cả ngày. Cocktails và canapes cũng sẽ được phục vụ vào buổi chiều tối. Khách được sử dụng miễn phí một phòng họp nhỏ với wi-fi được phủ sóng rộng khắp (trong trường hợp phòng còn trống).
+- - Tôi có thể gửi hành lý khi tôi đên du lịch nơi khác ở Việt Nam không?
+  - Vui lòng liên hệ với quầy dịch vụ khách hàng, đại diện tại quầy sẽ rất vui lòng tiếp nhận những hành lý đó.
+- - Nguồn điện khách sạn đang sử dụng là bao nhiêu? 
+  - Nguồn điện áp tại Việt Nam là 220 V.
+- - Việc hoàn thành thuê giá trị gia tăng ở việt nam như thế nào?
+  - Các khách du lịch đều có thể yêu cầu hoàn lại thuế GTGT trong các giao dịch mua bán lớn khi họ rời khỏi đất nước. Đa số các trung tâm mua sắm lớn đều có trưng bày biển hiệu này và sẽ cung cấp các biểu mẫu cần thiết để khách thực hiện.
+- - Các loại phòng nào đang có tại khách sạn Hạ Long?
+  - "Hiện nay, khách sạn của chúng tôi đang có những loại phòng sau: Phòng Superior – Đẳng cấp và sang trọng, Phòng Superior Gia Đình, Phòng Deluxe, Phòng Executive Deluxe, Phòng Junior Suite 1 Giường Đôi, Phòng Executive Suite 1 Giường Đôi, Phòng Grand Suite 1 Giường Đôi. Tất cả đều được thiết kế theo phong cách Châu Âu cổ điển, nội thất sang trọng, view hướng ra biển."
+- - Quyền lợi riêng đối với khu vực sảnh doanh nhân là gì?
+  - Nằm tại tầng 18, Club Lounge dành riêng cho khách vip, chủ yếu là doanh nhân với internet không dây tốc độ cao, thực hiện thủ tục nhận và trả phòng cá nhân, phục vụ bữa ăn sáng và đồ ăn nhẹ hàng ngày vào 6h00 -  11h00 và 15h00 - 18h00. Đây là một nơi lý tưởng cho một cuộc gặp gỡ đối tác hay khách hàng. Bên cạnh đó, khách hàng còn được sử dụng miễn phí các tiện ích tại Club Lounge khi đặt trực tiếp các phòng hạng sang Executive Deluxe, Junior Suite, Executive Suite, Grand Suite and Penthouse kèm theo ăn sáng.
+- - Khách sạn có áp dụng giảm giá cho khách đoàn hay không?
+  - Để biết chính xác thông tin này, quý khách hãy gọi đến số Hotline +84-(0)-203-3636 555, nhân viên tư vấn của chúng tôi sẽ trả lời cụ thể.
+- - Khách sạn có cho phép mang thú nuôi vào bên trong không?
+  - Rất tiếc, tại khách sạn 5 sao của chúng tôi không cho đem bất kỳ loại động vật nào vào bên trong khuôn viên khách sạn.
+- - Khách sạn có cho nhận phòng sớm không?
+  - Đôi khi chúng tôi vẫn cho khách hàng nhận phòng sớm nếu khách sạn đang còn phòng trống. Tuy nhiên, để chắc chắn quý khách hãy liên lạc trước với bộ phần nhân viên lễ tân của chúng tôi ít nhất 48 tiếng trước khi đến.
+- - Khách sạn 5 sao Hạ Long có được trang bị bồn tắm không?
+  - Tại khách sạn của chúng tôi có trang bị phòng tắm đứng và bồn tắm nằm cho quý khách chắc chắn sẽ đem lại cảm giác thư thái và tuyệt vời nhất.
+- - Khách sạn có mạng internet không?
+  - Toàn bộ tòa nhà của khách sạn đều được thiết lập hệ thống internet không dây và quý khách được sử dụng hoàn toàn miễn phí. Quý khách vui lòng liên hệ với quầy lễ tân để biết tên đăng nhập và mật khẩu vào mạng.
+- - Khách sạn có khu vui chơi dành cho trẻ em không?
+  - Khách sạn Hạ Long có nơi vui chơi dành cho trẻ em với những trò chơi an toàn, kích thích sự phát triển, trí thông minh của trẻ.
+- - Tại các nhà hàng thuộc khách sạn có ghế cao dành cho trẻ em ngồi không?
+  - Thưa có, chúng tôi sẽ cung cấp nếu quý khách yêu cầu.
+- - Khách sạn có hồ bơi không?
+  - Hồ bơi được đặt tại khu vực lầu 3 của khách sạn. Mở cửa từ 6:00 giờ - 20:00 giờ mỗi ngày.
+- - Khách sạn có trung tâm tập thể dục/ thể hình không?
+  - Phòng tập thể dục nằm tại khu vực lầu 3 của khách sạn. Mở cửa từ 6:00 giờ - 22:00 giờ mỗi ngày.
+- - Có bao nhiêu chỗ đậu xe ở khách sạn?
+  - Bãi đậu xe của khách sạn có sức chứa đủ cho 24 xe hơi với 2 khu vực đậu xe phía trước và phía sau sau khách sạn.
+- - Khách sạn có cung cấp dịch vụ đưa đón miễn phí bằng xe bus từ/đến sân bay và ngược lại không?
+  - Chúng tôi có sẵn dịch vụ đưa đón hành khách miễn phí từ sân bay đến khách sạn và ngược lại
+- - Thời gian di chuyển bằng taxi hoặc xe đưa rước từ sân bay về khách sạn là bao lâu? và Chi phí bao nhiêu cho một lần di chuyển?
+  - Từ sân bay đến khách sạn khoảng 10 phút lái xe nhưng còn tùy thuộc vào thời gian di chuyển và mật độ lưu thông tại thời điểm di chuyển. Chi phí cho một lượt di chuyển bằng taxi đến sân bay khoảng 80.000 VND.
+- - Chi phí cho dịch vụ đưa đón hành khách bằng xe LIMOUSINE của khách sạn là bao nhiêu?
+  - Chi phí dịch vụ đưa đón một chiều từ/ đến sân bay bằng xe Mercedes-E200 là 500.000++ VND và chi phí dịch vụ đưa đón một chiều từ/ đến sân bay bằng xe Innova là 400.000++ VND.
+- - Đi đến khách sạn bằng các phương tiện công cộng như thế nào?
+  - Quý khách có thể sử dụng dịch vụ taxi của các hãng taxi được người dùng tin tưởng tại Việt Nam như Vinasun hoặc Mai Linh taxi. Giá giao động trong khoảng từ 80.000 VND cho 1 lần di chuyển từ sân bay đến khách sạn.
+- - Nếu tôi sử dụng dịch vụ xe đưa đón của khách sạn, tôi sẽ gặp nhân viên của khách sạn eastin đón chúng tôi tại sân bay đúng không?
+  - Chúng tôi có đại diện trực tại sân bay để đón tất cả các hành khách của khách sạn tại cửa đến ở sân bay và nhân viên này sẽ đưa quý khách ra xe đưa đón của khách sạn. Người dại diện này sẽ cầm theo bảng tên có ghi chú tên của khách sạn Eastin Grand Saigon.
+- - kKhách sạn có các phương tiện đặc biệt hỗ trợ cho các hành khách khuyết tật hay không?
+  - Vâng, chúng tôi có những phòng trang bị đặc biệt cho những khách khuyết tật. Các phòng này sẽ được phục vụ theo yêu cầu mà không tính phí thêm và tùy vào tình trạng phòng trống.
+- - Khách sạn có sẵn bác sĩ hay không?
+  - Chúng tôi có thực hiện dịch vụ bác sĩ chăm sóc suốt 24 giờ thông qua một trung tâm y tế.
+- - Tôi có thể sử dụng dịch vụ massage tại khách sạn hay không?
+  - Vâng, chúng tôi có dịch vụ massage tại khách sạn.
+- - Bệnh viện gần nhất cách khách sạn bao xa?
+  - Chỉ mất 2 phút đi bộ từ khách sạn để đến bệnh viện công cấp Quận, và 5 phút lái xe từ khách sạn để đến bệnh viện tư nhân phục vụ theo yêu cầu
+- - Ngân hàng hoặc địa điểm đổi tiền gần nhất nằm ở đâu?
+  - Dịch vụ đổi tiền có sẵn tại quầy lễ tân tại khách sạn. Ngân hàng gần nhất chỉ cách khách sạn 5 phút đi bộ. Các ngân hàng tại Việt Nam thường mở cửa từ 08.00 sáng đến 16:30 chiều, làm việc từ thứ Hai đến thứ Sáu.
+- - Tiền tệ của việt nam là tiền gì?
+  - Tiền tệ của Việt Nam là tiền Đồng Việt Nam (VND).
+- - Tôi có thể gửi hành lý lại khách sạn khi tôi đi du lịch đến một nơi khác ở việt nam không?
+  - Vui lòng liên hệ với quầy dịch vụ khách hàng, đại diện tại quầy sẽ rất vui lòng tiếp nhận những hành lý đó.
+- - Nguồn điện áp khách sạn đang sử dụng tại việt nam là bao nhiêu?
+  - Nguồn điện áp tại Việt Nam là 220 V.
+- - Việc hoàn thuế giá trị gia tăng tại việt nam như thế nào?
+  - Các khách du lịch đều có thể yêu cầu hoàn lại thuế GTGT trong các giao dịch mua bán lớn khi họ rời khỏi đất nước. Đa số các trung tâm mua sắm lớn đều có trưng bày biển hiệu này và sẽ cung cấp các biểu mẫu cần thiết để khách thực hiện
+- - Có thể uống nước trực tiếp ở vòi nước tại việt nam hay không?
+  - Ở Việt Nam không uống trực tiếp nước ở vòi nước được. Nước uống miễn phí được khách sạn cung cấp trong phòng khách (2 chai nước/ phòng/ ngày).
+- - Thời tiết tại các thời điểm khác nhau trong năm như thế nào?
+  - Nhìn chung, thời tiết tại Thành Phố Hồ Chí Minh ấm áp quanh năm. Tuy nhiên, thời tiết đa phần sẽ dễ chịu hơn từ tháng Mười Một đến tháng Hai khi đó bầu trời trong xanh và nắng ấm. "Mùa nóng" diễn ra trong khoảng thời gian từ tháng Ba đến tháng Năm, khi nhiệt độ đạt tới ngưỡng cao nhất. "Mùa mưa" là giữa tháng Sáu và tháng Mười, mặc dù không có mưa mỗi ngày và mưa thường chỉ kéo dài trong một giờ hoặc trong một buổi tối.
+- - Tôi nên mặc quần áo như thế nào khi ở việt nam?
+  - Trang phục phù hợp ở Việt Nam là các loại trang phục thông dụng, tiện lợi, thoải mái.
+- - Tôi có thể kết nối mạnh với máy tính xách tay trong phòng hay không?
+  - Vâng, các máy tính xách tay có thể được kết nối với mạng qua đường dây điện thoại thông thường hoặc các hộp mạng được khách sạn cung cấp. Toàn bộ mọi nơi tại khách sạn đều được phủ mạng không dây.
+- - Có trung tâm thương mại nào ở gần khách sạn không và nếu có thì chúng nằm ở đâu?
+  - Chỉ có khu vực trung tâm là có nhiều trung tâm thương mại, bao gồm Diamond Plaza, Vincom Shopping Mall, Union Square Center, Parkson Shopping Center,… đến tất cả các địa chỉ trên chỉ mất 15 phút nếu di chuyển bằng xe hơi từ khách sạn tuy nhiên còn tùy thuộc vào thời điểm và mật độ giao thông trong ngày.
+- - Tôi có thể trả phòng muộn được chứ?
+  -  Giờ trả phòng của bạn là 10h30 và chúng tôi sẽ đón lượt khách tiếp theo vào lúc 12h. Vậy mà bạn còn muốn trả phòng muộn nữa, vậy nhân viên của chúng tôi sẽ phải mọc thêm tay để dọn phòng cho sạch sẽ và kịp giờ mất thôi.
+- - Tại sao bạn lại tính phí Wifi của tôi?
+  - Tại một số khách sạn, sử dụng wifi phải tính phí. Khi bạn sử dụng, khách sạn đã yêu cầu bạn tích vào ô chữ "tôi đồng ý" và sau đó lúc trả tiền, bạn lại hỏi những câu hỏi khiến không ai trong số chúng tôi muốn trả lời.
+- - Tôi có thể đổi sang phòng khác tôi hơn không?
+  - Bạn đặt phòng giá rẻ nhất, và yêu cầu chúng tôi đổi cho bạn phòng tốt nhất. Liệu có phải bạn đang làm khó chúng tôi không?
+- - Tôi có thể đổi giường cỡ lớn không?
+  - Đây rõ ràng là lỗi về trọng lượng của cơ thể bạn, đâu phải lỗi của chúng tôi.
+- - Tại sao tôi lại phải trả tiền đỗ xe?
+  - Khách sạn của chúng tôi đâu phải là nơi trông xe miễn phí cho một vị khách vãng lai như bạn? Nếu bạn muốn được hưởng điều đó, hãy trở thành khách của chúng tôi đã nhé.
+- - Tại sao khách sạn của các bạn thu dọn bữa sáng sớm như thế?
+  - Bạn không thể hỏi chúng tôi điều đó khi bạn bắt đầu ăn sáng lúc 11h trưa.
+- - Tại sao tôi lại phải trả tiền phòng gấp đôi?
+  -  Vì các bạn đặt phòng đôi nhưng lại rủ tới 8 người tới ăn ngủ nghỉ và chúng tôi đã quan sát thấy rõ điều đó mà.
+- - Có ai chết ở căn phòng/ khách sạn này chưa đấy?
+  - Bạn nghĩ chúng tôi biết trả lời sao đây?
+- - Bao giờ thì trời ngừng mưa?
+  - Chúng tôi đâu phải là chuyên gia dự báo thời tiết.

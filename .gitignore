@@ -1,0 +1,6 @@
+# git ignore folder
+/_pycache_/
+# git ignore file
+db.sqlite3
+
+
