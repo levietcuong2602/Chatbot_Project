@@ -14,8 +14,8 @@ def get_response(usrText):
         },
         # {
         #     'import_path': 'chatterbot.logic.LowConfidenceAdapter',
-        #     'threshold': 0.70,
-        #     'default_response': 'I am sorry, but I do not understand.'
+        #     'threshold': 0.50,
+        #     'default_response': 'Xin lỗi, tôi không hiểu ý của bạn.'
         # },
         {
             'import_path': 'chatterbot.logic.SpecificResponseAdapter',
@@ -24,6 +24,9 @@ def get_response(usrText):
         },
         {
             'import_path': 'logicAdapter.TimeLogicAdapter',
+        },
+        {
+            'import_path': 'hotelsLogicAdapter.HotelsLogicAdapter',
         },
     ],
     trainer='chatterbot.trainers.ListTrainer')

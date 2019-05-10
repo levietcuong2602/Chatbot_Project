@@ -70,7 +70,6 @@ class TimeLogicAdapter(LogicAdapter):
         from chatterbot.conversation import Statement
         
         now = datetime.now()
-
         time_features = self.time_question_features(statement.text.lower())
         confidence = self.classifier.classify(time_features)
         cur_hour = int(now.hour)
@@ -85,6 +84,5 @@ class TimeLogicAdapter(LogicAdapter):
         else:
             phase = 'tối'
         response = Statement('Bây giờ là ' + now.strftime('%I:%M') + ' ' + phase)
-
         response.confidence = confidence
         return response

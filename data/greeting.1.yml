@@ -1,0 +1,11 @@
+categories:
+- greeting
+conversations:
+- - chào
+  - chào bạn
+- - tạm biệt nhé
+  - ok bạn
+- - chào bot
+  - chào
+- - cho hỏi
+  - bạn hỏi đi
